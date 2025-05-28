@@ -1,0 +1,99 @@
+{
+  "page": {
+    "number": 3,
+    "title": "SASINTENY",
+    "translations": {
+      "fr": "AVANT-PROPOS",
+      "en": "FOREWORD"
+    },
+    "content": [
+      {
+        "type": "paragraph",
+        "text": "Ny ankabeazan'ireto \"ANGANON'NY NTAOLO\" sy ny fomban-drazana voalaza amin'ity boky ity dia nangonin-dRévérend L. Dahle sy ny misionera norveziana namany sasany, tokony ho telo-polo taona lasa izay, ka efa ela no nahalaniany. Ka dia nanonta indray izy tamin'ny Janvier 1908. Nalaky lany anefa ny natao tamin'izany, ka dia nohararaotiko ny fahalaniany handaharana sy hanitsiana ary hanampiana indray ny natonta fanindroany.",
+        "translations": {
+          "fr": "La plupart de ces \"Proverbes des Ancêtres\" et des traditions mentionnées dans ce livre ont été compilés par le Révérend L. Dahle et certains de ses collègues missionnaires norvégiens, il y a environ trente ans, donc ils étaient épuisés depuis longtemps. Ainsi, ils ont été réimprimés en janvier 1908. Mais l'édition de cette époque est complètement épuisée, donc j'ai profité de leur indisponibilité pour les réorganiser, les corriger et ajouter à nouveau à la deuxième édition.",
+          "en": "Most of these \"Proverbs of the Ancestors\" and traditions mentioned in this book were compiled by Reverend L. Dahle and some of his Norwegian missionary colleagues about thirty years ago, so they had long been out of print. Thus, they were reprinted in January 1908. But the edition from that time is completely exhausted, so I took advantage of their unavailability to reorganize, correct, and add again to the second edition."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Ny anton'ny nanangonana azy dia ny mba hiarovana ny fomban-drazana tsy ho very tadidy ; ny hampandroso ny fahalalana teny malagasy; ary ny hampiseho ny toe-tşaina amam-panahy nananan' ny razana.",
+        "translations": {
+          "fr": "La raison de leur collecte est de préserver les traditions pour qu'elles ne soient pas oubliées ; de promouvoir la connaissance de la langue malgache ; et de montrer l'état d'esprit et la mentalité qu'avaient les ancêtres.",
+          "en": "The reason for their collection is to preserve traditions so they are not forgotten; to promote knowledge of the Malagasy language; and to show the mindset and mentality that the ancestors had."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Mahagaga mihitsy ny angano sasany voalaza amin'ity boky ity, indrindra ange fa ny tantaran'lboniamasoboniamanoro, izay mampiseho ta ny razana dia nino tsara fa misy fiainana any an-koatra; ny tantaran'Indesoka, zanak Itrimobe, izay mifandraidraika amin'ny an'i Samsona sy Delila voalaza ao amin'ny Mpitsara, toko faha-16; ary ny tantaran faralahy Diso Fangataka, izay misy filazana ny Zanak' Andriamanitra nisolo heloka ny olombelona.",
+        "translations": {
+          "fr": "Certains contes mentionnés dans ce livre sont vraiment étonnants, notamment l'histoire d'Iboniamasoboniamanoro, qui montre que les ancêtres croyaient fermement en une vie après la mort ; l'histoire d'Indesoka, fils d'Itrimobe, qui présente des similitudes avec celle de Samson et Dalila racontée dans le Livre des Juges, chapitre 16 ; et l'histoire du frère Diso Fangataka, qui contient une allusion au Fils de Dieu qui a pris la place des péchés des hommes.",
+          "en": "Some tales mentioned in this book are truly amazing, particularly the story of Iboniamasoboniamanoro, which shows that the ancestors firmly believed in an afterlife; the story of Indesoka, son of Itrimobe, which has similarities with that of Samson and Delilah told in the Book of Judges, chapter 16; and the story of Brother Diso Fangataka, which contains an allusion to the Son of God who took the place of men's sins."
+        }
+      },
+      {
+        "type": "quote",
+        "text": "\"Aza mba manao tsimbadi-boanampotsy, lehiretsy, ka ho azon'ny olona tambatambazam-bola aman-karena hivadika ny marina. Fa ny daka no misy ambadika; ny loka no, misy ankoatra; ny akanjo no Soa misy paosy ; ny trano no tsara misy efitra ; ny tambin-toko no atao an' ankina ; ny salaka no atao sisik'ila ; ary ny hofak' ondry no soa mitsim-badika; fa ratsy koa raha ratsy, lehiretsy, raha mba mivadika ny marina.\"",
+        "citation": "(anatra fanaon' ny Ntaolo N°1)",
+        "translations": {
+          "fr": "\"Ne fais pas comme le tsimbadi-boanampotsy, lehiretsy, de peur que les gens riches ne puissent corrompre la justice. Car la cape a un envers ; le salaire a un surplus ; le vêtement est beau avec des poches ; la maison est bonne avec une pièce supplémentaire ; la ceinture est faite pour être serrée ; le panier est utilisé comme bord d'un filet ; et la peau de mouton est bonne pour se retourner ; mais c'est aussi mauvais si c'est mauvais, lehiretsy, si la justice se pervertit.\"",
+          "en": "\"Do not act like the tsimbadi-boanampotsy, lehiretsy, lest wealthy people corrupt justice. For the cloak has a reverse side; the reward has a surplus; the garment is good with pockets; the house is good with an extra room; the belt is made to be tightened; the basket is used as the edge of a net; and the sheepskin is good for turning inside out; but it is also bad if it is bad, lehiretsy, if justice becomes perverted.\""
+        },
+        "notes": {
+          "terms": [
+            {
+              "term": "tsimbadi-boanampotsy",
+              "meaning": "Un type d'oiseau (probable métaphore)"
+            },
+            {
+              "term": "lehiretsy",
+              "meaning": "Terme d'adresse respectueuse"
+            }
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Mampalahelo anefa fa toa heverin ny tanora fanahy sasany bo tsy ampy intsony ny teny malagasy, hany ka mitady hampiditra baiko be ihany izy hampiseho ny fahaizany kanjo izany ataony izany no manambara fa tsy mahay ny tenin-drazany izy.",
+        "translations": {
+          "fr": "Cependant, il est triste de constater que certains jeunes esprits semblent ne plus maîtriser la langue malgache, de sorte qu'ils cherchent à introduire des ordres compliqués pour montrer leur compétence, alors qu'en réalité, cela révèle qu'ils ne connaissent pas leur propre langue.",
+          "en": "However, it is sad to see that some young minds seem no longer to master the Malagasy language, so they try to introduce complicated commands to show their skill, when in fact this reveals that they do not know their own language."
+        }
+      },
+      {
+        "type": "paragraph",
+        "text": "Maro hianareo tanora fanahy no hamaky ny angano voasoratra ato ka ho finaritra sy ho dangidangin'ny hehy erỳ; ary ho hitanareo fa ny razana dia nidera ny fahamarinana sy ny hatsaram-panahy, ary nankahala ny lainga sy ny halatra, ets. Maro koa anefa ny fomba tsy mahomby nahazatra azy, na tamin'ny teny naloaky ny vavany, na tamin'ny fiaimpiainany andavanandro. Tsarovy anefa fa tsy mbola mba nohazavain' ny Soratra Masina izy tamin'ny nanaovany izany rehetra izany, koa dia tokony hofa-dintsika izay efa mahalala ny fampianarana nataon' i Jesosy Kristy ireny fomba ratsy fanaony ireny.",
+        "translations": {
+          "fr": "Vous, jeunes esprits, lirez beaucoup de contes écrits ici et vous vous amuserez et rirez beaucoup ; et vous verrez que les ancêtres louaient la vérité et la bonté, et détestaient le mensonge et le vol, etc. Cependant, il y a aussi de nombreuses pratiques inefficaces qui leur étaient habituelles, que ce soit dans les paroles qu'ils prononçaient ou dans leur vie quotidienne. Souvenez-vous cependant qu'ils n'avaient pas encore été éclairés par les Écritures Saintes lorsqu'ils faisaient tout cela, donc nous devrions corriger ces mauvaises pratiques en nous basant sur les enseignements de Jésus-Christ.",
+          "en": "You, young minds, will read many tales written here and you will enjoy and laugh a lot; and you will see that the ancestors praised truth and goodness, and hated lies and theft, etc. However, there are also many ineffective practices that they were accustomed to, whether in the words they spoke or in their daily lives. Remember, however, that they had not yet been enlightened by the Holy Scriptures when they did all this, so we should correct these bad practices based on the teachings of Jesus Christ."
+        }
+      },
+        {
+            "type": "paragraph",
+            "text": "Maro ny sakaizako, dia ny mpitandrina sy ny mpampianatra sasany eto Antananarivo, no efa nanampy ahy tamin' ny nanamboarana ity boky ity, indrindra fa F. Rasoamanana sy Rainiboanary. Tsy ho vita toy izao izy tsy akory raha tsy ny fanampiana azoko taminy. Sitraka sy telina ny nataony, ka te-hisaotra azy indrindra aho.",
+            "translations": {
+                "fr": "Beaucoup de mes amis, notamment des pasteurs et des enseignants ici à Antananarivo, m'ont aidé dans la préparation de ce livre, en particulier F. Rasoamanana et Rainiboanary. Il n'aurait pas été possible de le faire sans leur aide. Je suis reconnaissant et heureux de ce qu'ils ont fait, et je tiens à les remercier tout particulièrement.",
+                "en": "Many of my friends, including pastors and teachers here in Antananarivo, have helped me in the preparation of this book, especially F. Rasoamanana and Rainiboanary. It would not have been possible to do it without their help. I am grateful and happy for what they have done, and I want to thank them especially."
+            }
+        },
+      {
+        "type": "signature",
+        "text": "Hoy J. SIMS",
+        "translations": {
+          "fr": "Par J. SIMS",
+          "en": "By J. SIMS"
+        }
+      }
+    ],
+    "notes": [
+      {
+        "type": "contextual",
+        "text": "Cette page est l'avant-propos de la deuxième édition du livre",
+        "translations": {
+          "fr": "Cette page est l'avant-propos de la deuxième édition du livre",
+          "en": "This page is the foreword to the second edition of the book"
+        }
+      }
+    ]
+  }
+}
