@@ -1,0 +1,73 @@
+// This JSON file contains metadata about the book "ANGANON'NY NTAOLO"
+{
+  "metadata": {
+    "title": {
+      "original": "ANGANON'NY NTAOLO",
+      "translations": {
+        "fr": "Proverbes des Ancêtres",
+        "en": "Proverbs of the Ancestors"
+      }
+    },
+    "subtitle": {
+      "original": "TANTARA MAMPISEHO NY FOMBAN-DRAZANA SY NY FINOANA SASANY NANANANY",
+      "translations": {
+        "fr": "Histoire illustrant les traditions et certaines croyances qu'ils possédaient",
+        "en": "A Story Illustrating the Traditions and Some of the Beliefs They Held"
+      }
+    },
+    "author": {
+      "original": "NANGONIN-dREV. L. DAHLE",
+      "translations": {
+        "fr": "Collectés par le Rév. L. Dahle",
+        "en": "Collected by Rev. L. Dahle"
+      },
+      "notes": {
+        "fr": "NANGONIN = collectés/compilés, REV. = Révérend",
+        "en": "NANGONIN = collected/compiled, REV. = Reverend"
+      }
+    },
+    "edition": {
+      "original": "NATONTA FANIMPITONY",
+      "translations": {
+        "fr": "Septième édition",
+        "en": "Seventh Edition"
+      },
+      "notes": {
+        "fr": "NATONTA = Édition, FANIMPITONY = septième",
+        "en": "NATONTA = Edition, FANIMPITONY = seventh"
+      }
+    },
+    "editors": {
+      "original": "NALAHATRA SY NAHITSY ARY NAMPIAN'I JOHN SIMS",
+      "translations": {
+        "fr": "Révisé et corrigé par John Sims",
+        "en": "Revised and Corrected by John Sims"
+      }
+    },
+    "publisher": {
+      "name": {
+        "original": "Imprimerie Lutherienne",
+        "translations": {
+          "fr": "Imprimerie Lutherienne",
+          "en": "Lutheran Printing House"
+        }
+      },
+      "location": {
+        "original": "Tananarive",
+        "translations": {
+          "fr": "Tananarive (ancien nom d'Antananarivo)",
+          "en": "Tananarive (former name of Antananarivo)"
+        }
+      }
+    },
+    "year": 1962,
+    "languages": {
+      "original": "mg",
+      "translations": ["fr", "en"]
+    },
+    "description": {
+      "en": "A collection of Malagasy proverbs and traditional stories compiled by Lutheran missionaries",
+      "fr": "Un recueil de proverbes malgaches et d'histoires traditionnelles compilé par des missionnaires luthériens"
+    }
+  }
+}
